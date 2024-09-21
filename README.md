@@ -6,7 +6,7 @@
 
 ### Install
 ```bash
-composer require epzuz/wazzup-sdk
+composer require foxtes/wazzup-driver
 ```
 
 ### Usage

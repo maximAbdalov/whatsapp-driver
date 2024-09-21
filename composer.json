@@ -1,5 +1,6 @@
 {
     "name": "foxtes/wazzup-driver",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
